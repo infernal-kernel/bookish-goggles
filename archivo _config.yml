@@ -1,0 +1,11 @@
+# Configuración de Jekyll
+title: bookish-goggles
+description: Mi primer sitio web con Jekyll
+baseurl: ""
+url: "https://infernal-kernel.github.io"  # Cambia a tu URL de GitHub Pages si es diferente
+markdown: kramdown
+theme: jekyll-theme-primer
+
+# Especificación de la fuente y destino
+source: docs
+destination: docs/_site
